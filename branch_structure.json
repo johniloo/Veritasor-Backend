@@ -1,0 +1,18 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "dd-310-retry-vitest",
+    "main",
+    "origin"
+  ],
+  "parent": {
+    "dd-310-retry-vitest": "main",
+    "main": null,
+    "origin": "main"
+  },
+  "order": [
+    "main",
+    "dd-310-retry-vitest",
+    "origin"
+  ]
+}
